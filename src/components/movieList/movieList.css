@@ -1,0 +1,22 @@
+.movie__list {
+    padding: 0 3rem 3rem 3rem;
+}
+
+.list__title {
+font-size: 1.75rem;
+margin:  2.5rem;
+}
+
+.list__cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
+.movie__list h2{
+    background-color: red;
+    display: inline-block;
+    border: 2px solid rgb(210, 0, 0);
+    border-radius: 20px;
+    padding: 5px;
+
+}
